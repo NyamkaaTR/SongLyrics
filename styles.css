@@ -9312,6 +9312,7 @@ small,
 
 .mb-5 {
     color: white;
+    position: relative;
 }
 .container {
   width: 100%;
