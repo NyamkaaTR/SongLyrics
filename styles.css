@@ -9500,6 +9500,12 @@ small,
         left: 40px;
     }
 }
+#myAudio {
+    position: absolute;
+    height: 25px;
+    width: 245px;
+    margin-top: 543px;
+}
 
 @media (min-width: 768px) {
   .container {
@@ -9558,6 +9564,7 @@ small,
     }
         .row-1::-webkit-scrollbar {
             width: 0.5em;
+            height:5px;
         }
 
         .row-1::-webkit-scrollbar-track {
